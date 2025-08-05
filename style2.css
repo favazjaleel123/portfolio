@@ -1,0 +1,14 @@
+"{
+    box-sizing: border-box;
+}
+
+header{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: white;
+    background-linear-gradient(to right, blanchedalmond, lightblue);
+
+}
+body{
+ background-image:url('image.jpg/download.jpeg');
+ background: linear-gradient(to right, rgb(169, 18, 18), yellow, lightblue);url('image.jpg/download.jpeg')
+}
